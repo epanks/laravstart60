@@ -28,7 +28,7 @@
         "admin-lte": "^3.0.1",
         "bootstrap-vue": "^2.1.0",
         "laravel-vue-pagination": "^2.3.1",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "sweetalert2": "^9.3.17",
         "vform": "^1.0.1",
         "vue-numeral-filter": "^1.1.1",
